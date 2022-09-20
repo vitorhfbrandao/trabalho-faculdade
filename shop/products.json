@@ -1,0 +1,33 @@
+{
+	"products" : [
+		{
+			"name" : "Toalha de Banho",
+			"price" : "15.99",
+			"options" : [
+				{ "Tamanho" : "U" }
+			],
+			"image" : "https://imageswscdn.wslojas.com.br/files/22589/MED_toalha-banho-jacquard-corttex-medalhao-517277.jpg",
+			"description" : "Toalha simples para banho Santista."
+		},
+		{
+			"name" : "Roupão Unissex",
+			"price" : "79.99",
+			"options" : [
+				{ "Tamanho" : "P,M,G" },
+				{ "Color" : "Azul" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://lojafirstclass.vteximg.com.br/arquivos/ids/164884-1000-1000/Roupao_AzulEscuro_18-3928_01.jpg?v=637848444812300000",
+			"description" : "Roupão Santista de ótima qualidade."
+		},
+		{
+			"name" : "Jogo de Lençol",
+			"price" : "64.99",
+			"options" : [
+				{ "Tamanho" : "Solteiro,Casal,Queen" }
+			],
+			"image" : "https://lojafirstclass.vteximg.com.br/arquivos/ids/159887-1000-1000/1_JogoDeCama_400Fios_19-4406.jpg?v=637716214987230000",
+			"description" : "Lindo jogo de lençol simples e slim."
+		}
+	]
+}
